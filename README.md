@@ -45,5 +45,5 @@ Before you begin, make sure you have the following installed on your system:
    yarn index.js
    ```
 
-## Step 6: Clone server
+## Step 4: Clone server
 1. Clone frontend code from this [Repo](https://github.com/prajilk/CRUD-operation-frontend)
