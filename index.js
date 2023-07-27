@@ -16,7 +16,7 @@ const cors = require("cors");
 // Import and use the 'cors' middleware to enable Cross-Origin Resource Sharing (CORS) for the application.// 
 app.use(cors({
     // Set the allowed origin(s) that can access the server's resources.
-    origin: ['http://localhost:5173', 'https://user-data-crud-example.vercel.app'],
+    origin: ['http://localhost:5173'],
     credentials: true
 }))
 
